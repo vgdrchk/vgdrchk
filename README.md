@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Artem Vigdorchik
+- 👀 I’m interested in Data Analyses.
+- 🌱 I’m currently learning Python, SQL, Tableau and statistic.
